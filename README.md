@@ -2,7 +2,7 @@
 
 **Matter ID:** [Pending Assignment]  
 **Lead Author / Inventor:** Abhishek Singh | UIDAI: 9414 9122 9013  
-**Associated Repositories:** `subatomic-materials-suite`
+**Associated Repositories:** [`subatomic-materials-suite`](https://github.com/Abhishek1033ubuntu/subatomic-materials-suite)
 
 ## Abstract
 High-precision electromechanical micro-positioners operating in the moderate-frequency regime (100 Hz to 2 kHz) exhibit severe non-linear, rate-dependent hysteresis loops, leading to positioning errors exceeding 18.5%. This repository details a dual-layer mitigation architecture. At the material level, a PIN-PMN-PT Single-Crystal Nanocomposite reduces intrinsic hysteresis by 77% compared to standard PZT-5H ceramics. At the control level, a Hybrid Rate-Dependent Prandtl-Ishlinskii (RD-PI) Inverse combined with a Sliding-Mode Observer (SMO) collapses the residual loop. The integrated system achieves a maximum dynamic tracking error of 0.32% at 1.0 kHz with an algorithmic latency of 3.8 µs per control interrupt, making it highly viable for real-time digital signal processing in turbomachinery active clearance control and high-bandwidth vibration suppression.
