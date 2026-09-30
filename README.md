@@ -52,8 +52,8 @@ actuator-hysteresis-inversion-suite/
 ## Usage
 Run the benchmarking script to visualize the hysteresis loop collapse and the real-time dynamic tracking accuracy.
 
-BibTeX
-
+## BibTeX
+```
 @misc{singh2026actuator,
   author = {Singh, Abhishek},
   title = {Non-Linear Hysteresis Inversion in Electromechanical Actuators via PIN-PMN-PT Nanocomposites},
@@ -62,3 +62,4 @@ BibTeX
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/Abhishek1033ubuntu/actuator-hysteresis-inversion-suite}}
 }
+```
