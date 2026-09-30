@@ -52,7 +52,7 @@ actuator-hysteresis-inversion-suite/
 ## Usage
 Run the benchmarking script to visualize the hysteresis loop collapse and the real-time dynamic tracking accuracy.
 
-## BibTeX
+BibTeX
 
 @misc{singh2026actuator,
   author = {Singh, Abhishek},
