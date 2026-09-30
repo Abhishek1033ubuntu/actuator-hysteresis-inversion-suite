@@ -1,7 +1,7 @@
 # Non-Linear Hysteresis Inversion in Electromechanical Actuators via PIN-PMN-PT Nanocomposites and Hybrid Sliding-Mode Control
 
 **Matter ID:** [Pending Assignment]  
-**Lead Author / Inventor:** Abhishek Singh | UIDAI: 9414 9122 9013 
+**Lead Author / Inventor:** Abhishek Singh | UIDAI: 9414 9122 9013  
 **Associated Repositories:** `subatomic-materials-suite`
 
 ## Abstract
