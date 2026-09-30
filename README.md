@@ -36,5 +36,18 @@ Simulation testing (provided in `actuator_hysteresis_benchmark.py`) under a 1.0 
 * **Dynamic Accuracy:** Tracking error dropped from 21.4% (uncompensated PZT-5H) to 0.32%.
 * **Real-Time Execution:** The full RD-PI and SMO algorithm computes in 3.8 µs, comfortably satisfying the 10.0 µs update window required for standard 100 kHz industrial microcontrollers.
 
+## 5. Repository File Tree
+```
+actuator-hysteresis-inversion-suite/
+├── README.md
+├── requirements.txt
+├── src/
+│   └── actuator_hysteresis_benchmark.py
+└── docs/
+    ├── 01_Mathematical_Formulation.md
+    ├── 02_Hardware_DSP_Implementation.md
+    └── 03_Intellectual_Property.md
+```
+
 ## Usage
 Run the benchmarking script to visualize the hysteresis loop collapse and the real-time dynamic tracking accuracy.
