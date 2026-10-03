@@ -2,12 +2,11 @@
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23068677-blue?style=for-the-badge&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.23068677)
 <!-- License & Build -->
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) 
-[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Status](https://img.shields.io/badge/Status-Active--Development-brightgreen.svg)]()
-
 <!-- Domain & Focus -->
-[![Domain](https://img.shields.io/badge/Domain-Control%20Systems-orange.svg)]() 
+[![Domain](https://img.shields.io/badge/Domain-Control%20Systems-orange.svg)]()
 [![Focus](https://img.shields.io/badge/Focus-Actuator%20Hysteresis-red.svg)]() 
 
 **Matter ID:** [Pending Assignment]  
